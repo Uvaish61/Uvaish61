@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Uvaish+Khan;Mobile+App+Developer;Flutter+•+React+Native+•+Unity"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=UVAISH+KHAN;Mobile+App+Developer;Flutter+•+React+Native+•+Unity"/>
 
 </p>
 
