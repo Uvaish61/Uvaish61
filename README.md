@@ -1,14 +1,16 @@
-<h1 align="center">
-Hi 👋 I'm Uvaish Khan
-</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uvaish%20Khan&fontSize=45&fontColor=00e5ff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Uvaish Khan</h1>
 
 <h3 align="center">
-Mobile App Developer | Flutter • React Native • Unity
+Mobile App Developer • Flutter • React Native • Unity
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Flutter+Developer;React+Native+Developer;Unity+Game+Developer;Building+Beautiful+Mobile+Apps"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;React+Native+Developer;Unity+Game+Developer;Building+Beautiful+Mobile+Apps;Passionate+About+Mobile+Development"/>
 
 </p>
 
@@ -16,13 +18,13 @@ Mobile App Developer | Flutter • React Native • Unity
 
 # 👨‍💻 About Me
 
-🚀 Passionate **Mobile App Developer** focused on building high-quality mobile applications.
+🚀 Passionate **Mobile App Developer** focused on building modern mobile applications.
 
 * 📱 Flutter Developer
 * ⚛️ Currently working with React Native
-* 🎮 Experienced with Unity game development
-* 🔥 Skilled in Firebase, REST APIs, GetX, and state management
-* 🎯 Seeking Flutter / React Native opportunities
+* 🎮 Experienced with Unity Game Development
+* 🔥 Skilled in Firebase, REST APIs, GetX & state management
+* 🎯 Looking for Flutter / React Native opportunities
 
 ---
 
@@ -50,7 +52,7 @@ Mobile App Developer | Flutter • React Native • Unity
 
 ### 📱 Mobile Development
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,firebase"/>
 </p>
 
@@ -60,7 +62,7 @@ Flutter • React Native • Dart • JavaScript • Firebase
 
 ### 🎮 Game Development
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=unity,cs"/>
 </p>
 
@@ -70,7 +72,7 @@ Unity • C#
 
 ### ⚙️ Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
 </p>
 
@@ -84,7 +86,7 @@ Git • GitHub • VS Code • Android Studio
 | ------------------- | ---------------------------------------------- |
 | **Trimly**          | Productivity and task management mobile app    |
 | **ZenScreen**       | Screen-time tracking and focus improvement app |
-| **Instagram Clone** | Social media UI clone built with Flutter       |
+| **Instagram Clone** | Flutter UI clone                               |
 | **Blinkit Clone**   | Grocery delivery UI clone                      |
 
 ---
@@ -93,29 +95,9 @@ Git • GitHub • VS Code • Android Studio
 
 <p align="center">
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Uvaish61&show_icons=true&theme=tokyonight&hide_border=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Uvaish61&show_icons=true&theme=default&hide_border=true"
-  media="(prefers-color-scheme: light)"
-/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uvaish61&show_icons=true" />
-</picture>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uvaish61&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Uvaish61&layout=compact&theme=tokyonight&hide_border=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Uvaish61&layout=compact&theme=default&hide_border=true"
-  media="(prefers-color-scheme: light)"
-/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uvaish61&layout=compact" />
-</picture>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uvaish61&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -125,7 +107,7 @@ Git • GitHub • VS Code • Android Studio
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Uvaish61&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Uvaish61&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -151,19 +133,19 @@ Git • GitHub • VS Code • Android Studio
 
 ---
 
-# 🐍 Contribution Snake
+# 👾 Pac-Man Contribution Game
 
 <p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-  srcset="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/github-contribution-grid-snake-dark.svg" />
 
-<source media="(prefers-color-scheme: light)" 
-srcset="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/github-contribution-grid-snake.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/pacman-contribution-graph-dark.svg">
 
-<img alt="github contribution snake animation"
-src="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/github-contribution-grid-snake.svg" /> </picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/pacman-contribution-graph.svg">
+
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/pacman-contribution-graph.svg">
+
+</picture>
 
 </p>
 
@@ -173,7 +155,7 @@ src="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/github-contribut
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Uvaish61&label=Profile%20views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Uvaish61&style=for-the-badge&color=00e5ff"/>
 
 </p>
 
@@ -192,4 +174,3 @@ src="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/github-contribut
 ⭐ From <a href="https://github.com/Uvaish61">Uvaish Khan</a>
 
 </p>
-
