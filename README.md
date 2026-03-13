@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=⚡+Uvaish+Khan+⚡"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines= +Uvaish+Khan+ "/>
 
 </p>
 
