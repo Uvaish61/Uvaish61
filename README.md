@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=55&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Uvaish+Khan;Mobile+App+Developer;Flutter+%7C+React+Native+%7C+Unity"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Uvaish+Khan;Mobile+App+Developer;Flutter+•+React+Native+•+Unity"/>
 
 </p>
 
@@ -12,16 +12,14 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+Beautiful+Mobile+Apps;Flutter+Developer;React+Native+Developer;Unity+Game+Developer;Passionate+About+Mobile+Development"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Building+Beautiful+Mobile+Apps;Flutter+Developer;React+Native+Developer;Unity+Game+Developer;Passionate+About+Mobile+Development"/>
 
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
 </p>
 
 ---
@@ -30,11 +28,11 @@
 
 🚀 Passionate **Mobile App Developer** focused on building modern mobile applications.
 
-- 📱 Flutter Developer  
-- ⚛️ Currently working with **React Native**  
-- 🎮 Experienced in **Unity Game Development**  
-- 🔥 Skilled with **Firebase, REST APIs, GetX & State Management**  
-- 🎯 Looking for **Flutter / React Native opportunities**
+* 📱 Flutter Developer
+* ⚛️ Currently working with **React Native**
+* 🎮 Experienced with **Unity Game Development**
+* 🔥 Skilled in **Firebase, REST APIs, GetX & State Management**
+* 🎯 Looking for **Flutter / React Native opportunities**
 
 ---
 
@@ -63,9 +61,7 @@
 ### 📱 Mobile Development
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,firebase"/>
-
 </p>
 
 Flutter • React Native • Dart • JavaScript • Firebase
@@ -75,9 +71,7 @@ Flutter • React Native • Dart • JavaScript • Firebase
 ### 🎮 Game Development
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=unity,cs"/>
-
 </p>
 
 Unity • C#
@@ -87,9 +81,7 @@ Unity • C#
 ### ⚙️ Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
-
 </p>
 
 Git • GitHub • VS Code • Android Studio
@@ -98,12 +90,12 @@ Git • GitHub • VS Code • Android Studio
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|-------|-------------|
-| **[Trimly](https://github.com/Uvaish61)** | Productivity and task management mobile app |
-| **[ZenScreen](https://github.com/Uvaish61)** | Screen-time tracking and focus improvement |
-| **[Instagram Clone](https://github.com/Uvaish61)** | Flutter UI clone of Instagram |
-| **[Blinkit Clone](https://github.com/Uvaish61)** | Grocery delivery UI clone |
+| Project             | Description                                 |
+| ------------------- | ------------------------------------------- |
+| **Trimly**          | Productivity and task management mobile app |
+| **ZenScreen**       | Screen-time tracking and focus improvement  |
+| **Instagram Clone** | Flutter UI clone of Instagram               |
+| **Blinkit Clone**   | Grocery delivery UI clone                   |
 
 ---
 
@@ -124,6 +116,24 @@ Git • GitHub • VS Code • Android Studio
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uvaish61&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 👾 Pac-Man Contribution Game
+
+<p align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/pacman-contribution-graph-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/pacman-contribution-graph.svg">
+
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/pacman-contribution-graph.svg">
+
+</picture>
 
 </p>
 
@@ -161,9 +171,9 @@ Git • GitHub • VS Code • Android Studio
 
 # ⚡ Fun Fact
 
-💡 I love building **mobile apps that solve real-world problems**.
+💡 I love building **mobile apps that solve real-world problems.**
 
-🚀 Always exploring new technologies in **Mobile Development and Game Development**.
+🚀 Always exploring new technologies in **Mobile Development & Game Development.**
 
 ---
 
