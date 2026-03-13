@@ -1,21 +1,25 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=⚡%20Uvaish%20Khan%20⚡&fontSize=50&fontColor=00E5FF&animation=twinkling&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=⚡+Uvaish+Khan+⚡"/>
+
 </p>
 
-<h1 align="center">Hi 👋 I'm Uvaish Khan</h1>
-
-<h3 align="center">
+<h2 align="center">
 Mobile App Developer • Flutter • React Native • Unity
-</h3>
+</h2>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;React+Native+Developer;Unity+Game+Developer;Building+Beautiful+Mobile+Apps;Passionate+About+Mobile+Development"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;React+Native+Developer;Unity+Game+Developer;Building+Beautiful+Mobile+Apps;Passionate+About+Mobile+Development"/>
 
 </p>
 
+---
+
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="520"/>
+
 </p>
 
 ---
@@ -187,8 +191,4 @@ Git • GitHub • VS Code • Android Studio
 
 ⭐ From <a href="https://github.com/Uvaish61">Uvaish Khan</a>
 
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
 </p>
