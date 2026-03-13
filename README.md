@@ -1,16 +1,18 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines= +Uvaish+Khan+ "/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=55&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Uvaish+Khan;Mobile+App+Developer;Flutter+%7C+React+Native+%7C+Unity"/>
 
 </p>
 
-<h2 align="center">
-Mobile App Developer • Flutter • React Native • Unity
-</h2>
+<h3 align="center">
+📱 Mobile App Developer • Flutter • React Native • Unity
+</h3>
+
+---
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;React+Native+Developer;Unity+Game+Developer;Building+Beautiful+Mobile+Apps;Passionate+About+Mobile+Development"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+Beautiful+Mobile+Apps;Flutter+Developer;React+Native+Developer;Unity+Game+Developer;Passionate+About+Mobile+Development"/>
 
 </p>
 
@@ -18,7 +20,7 @@ Mobile App Developer • Flutter • React Native • Unity
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="520"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 
 </p>
 
@@ -28,11 +30,11 @@ Mobile App Developer • Flutter • React Native • Unity
 
 🚀 Passionate **Mobile App Developer** focused on building modern mobile applications.
 
-* 📱 Flutter Developer
-* ⚛️ Currently working with **React Native**
-* 🎮 Experienced with **Unity Game Development**
-* 🔥 Skilled in **Firebase, REST APIs, GetX & state management**
-* 🎯 Looking for **Flutter / React Native opportunities**
+- 📱 Flutter Developer  
+- ⚛️ Currently working with **React Native**  
+- 🎮 Experienced in **Unity Game Development**  
+- 🔥 Skilled with **Firebase, REST APIs, GetX & State Management**  
+- 🎯 Looking for **Flutter / React Native opportunities**
 
 ---
 
@@ -61,7 +63,9 @@ Mobile App Developer • Flutter • React Native • Unity
 ### 📱 Mobile Development
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,firebase"/>
+
 </p>
 
 Flutter • React Native • Dart • JavaScript • Firebase
@@ -71,7 +75,9 @@ Flutter • React Native • Dart • JavaScript • Firebase
 ### 🎮 Game Development
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=unity,cs"/>
+
 </p>
 
 Unity • C#
@@ -81,7 +87,9 @@ Unity • C#
 ### ⚙️ Tools
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
+
 </p>
 
 Git • GitHub • VS Code • Android Studio
@@ -90,12 +98,12 @@ Git • GitHub • VS Code • Android Studio
 
 # 🚀 Featured Projects
 
-| Project                                            | Description                                 |
-| -------------------------------------------------- | ------------------------------------------- |
-| **[Trimly](https://github.com/Uvaish61)**          | Productivity and task management mobile app |
-| **[ZenScreen](https://github.com/Uvaish61)**       | Screen-time tracking and focus improvement  |
-| **[Instagram Clone](https://github.com/Uvaish61)** | Flutter UI clone of Instagram               |
-| **[Blinkit Clone](https://github.com/Uvaish61)**   | Grocery delivery UI clone                   |
+| Project | Description |
+|-------|-------------|
+| **[Trimly](https://github.com/Uvaish61)** | Productivity and task management mobile app |
+| **[ZenScreen](https://github.com/Uvaish61)** | Screen-time tracking and focus improvement |
+| **[Instagram Clone](https://github.com/Uvaish61)** | Flutter UI clone of Instagram |
+| **[Blinkit Clone](https://github.com/Uvaish61)** | Grocery delivery UI clone |
 
 ---
 
@@ -111,16 +119,6 @@ Git • GitHub • VS Code • Android Studio
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Uvaish61&theme=tokyonight&no-frame=true&margin-w=12"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -131,29 +129,11 @@ Git • GitHub • VS Code • Android Studio
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uvaish61&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 👾 Pac-Man Contribution Game
-
-<p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/pacman-contribution-graph-dark.svg">
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/pacman-contribution-graph.svg">
-
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/pacman-contribution-graph.svg">
-
-</picture>
 
 </p>
 
@@ -181,9 +161,9 @@ Git • GitHub • VS Code • Android Studio
 
 # ⚡ Fun Fact
 
-💡 I love building **mobile apps that solve real-world problems.**
+💡 I love building **mobile apps that solve real-world problems**.
 
-🚀 Always exploring new technologies in **mobile development and game development.**
+🚀 Always exploring new technologies in **Mobile Development and Game Development**.
 
 ---
 
