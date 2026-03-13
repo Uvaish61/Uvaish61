@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uvaish%20Khan&fontSize=45&fontColor=00e5ff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Uvaish%20Khan&fontSize=50&fontColor=00e5ff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Uvaish Khan</h1>
@@ -14,6 +14,10 @@ Mobile App Developer • Flutter • React Native • Unity
 
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
+
 ---
 
 # 👨‍💻 About Me
@@ -21,10 +25,10 @@ Mobile App Developer • Flutter • React Native • Unity
 🚀 Passionate **Mobile App Developer** focused on building modern mobile applications.
 
 * 📱 Flutter Developer
-* ⚛️ Currently working with React Native
-* 🎮 Experienced with Unity Game Development
-* 🔥 Skilled in Firebase, REST APIs, GetX & state management
-* 🎯 Looking for Flutter / React Native opportunities
+* ⚛️ Currently working with **React Native**
+* 🎮 Experienced with **Unity Game Development**
+* 🔥 Skilled in **Firebase, REST APIs, GetX & state management**
+* 🎯 Looking for **Flutter / React Native opportunities**
 
 ---
 
@@ -82,12 +86,12 @@ Git • GitHub • VS Code • Android Studio
 
 # 🚀 Featured Projects
 
-| Project             | Description                                    |
-| ------------------- | ---------------------------------------------- |
-| **Trimly**          | Productivity and task management mobile app    |
-| **ZenScreen**       | Screen-time tracking and focus improvement app |
-| **Instagram Clone** | Flutter UI clone                               |
-| **Blinkit Clone**   | Grocery delivery UI clone                      |
+| Project                                            | Description                                 |
+| -------------------------------------------------- | ------------------------------------------- |
+| **[Trimly](https://github.com/Uvaish61)**          | Productivity and task management mobile app |
+| **[ZenScreen](https://github.com/Uvaish61)**       | Screen-time tracking and focus improvement  |
+| **[Instagram Clone](https://github.com/Uvaish61)** | Flutter UI clone of Instagram               |
+| **[Blinkit Clone](https://github.com/Uvaish61)**   | Grocery delivery UI clone                   |
 
 ---
 
@@ -95,9 +99,9 @@ Git • GitHub • VS Code • Android Studio
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uvaish61&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Uvaish61&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uvaish61&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uvaish61&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -107,7 +111,7 @@ Git • GitHub • VS Code • Android Studio
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Uvaish61&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Uvaish61&theme=tokyonight&no-frame=true&margin-w=12"/>
 
 </p>
 
@@ -151,6 +155,16 @@ Git • GitHub • VS Code • Android Studio
 
 ---
 
+# 🏙️ 3D Contribution Skyline
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/profile-3d-contrib/profile-night-rainbow.svg"/>
+
+</p>
+
+---
+
 # 👀 Profile Views
 
 <p align="center">
@@ -173,4 +187,8 @@ Git • GitHub • VS Code • Android Studio
 
 ⭐ From <a href="https://github.com/Uvaish61">Uvaish Khan</a>
 
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
 </p>
