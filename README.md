@@ -28,7 +28,7 @@
 
 🚀 Passionate **Mobile App Developer** focused on building modern mobile applications.
 
-* 📱 **React Native** **Flutter Developer**
+* 📱 **React Native** & **Flutter Developer**
 * 🎮 Experienced with **Unity Game Development**
 * 🔥 Skilled in **Firebase, REST APIs, GetX & State Management**
 * 🎯 Looking for **Flutter / React Native opportunities**
