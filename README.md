@@ -98,7 +98,7 @@ Git • GitHub • VS Code • Android Studio
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 
