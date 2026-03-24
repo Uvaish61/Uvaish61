@@ -110,7 +110,7 @@ Git • GitHub • VS Code • Android Studio
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 
