@@ -24,7 +24,7 @@
 
 ---
 
-# 👨‍💻👨‍💻 About Me
+# 👨‍💻 About Me
 
 🚀 Passionate **Mobile App Developer** focused on building modern mobile applications.
 
