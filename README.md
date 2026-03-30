@@ -8,7 +8,7 @@
 # Hi , I'm Uvaish Khan
 
  Junior Flutter Developer | Full Stack Developer | AI Enthusiast  
-💻 Passionate about building scalable apps and solving real-world problems  
+ Passionate about building scalable apps and solving real-world problems  
 📍 Hyderabad, India  
 
 ---
