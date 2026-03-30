@@ -103,6 +103,6 @@
 
 ## 💡 Quote
 
-> “I don’t just learn technology — 
+> “I don’t just learn technology — I build with it.”
 
 ---
