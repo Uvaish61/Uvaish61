@@ -88,7 +88,7 @@
 
 ---
 
-## 👀 Profile Views
+## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Uvaish61&color=blue)
 
