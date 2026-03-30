@@ -38,7 +38,7 @@
 - MongoDB
 - Firebase
 
-### 🔐 Tools & Others
+###  Tools & Others
 - Git & GitHub
 - REST APIs
 - Postman
