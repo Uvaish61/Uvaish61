@@ -1,96 +1,111 @@
 <!-- ⚠️ IMPORTANT: Apna existing GIF yahin top pe rehne do -->
-<!-- Example:
 <p align="center">
   <img src="YOUR_GIF_LINK_HERE" />
 </p>
--->
 
-# Hi , I'm Uvaish Khan
+<h1 align="center">Hi 👋, I'm Uvaish Khan</h1>
 
- Junior Flutter Developer | Full Stack Developer | AI Enthusiast  
- Passionate about building scalable apps and solving real-world problems  
- Hyderabad, India  
+<h3 align="center">
+🚀 Junior Flutter Developer | 💻 Full Stack Developer | 🤖 AI Enthusiast
+</h3>
+
+<p align="center">
+Passionate about building scalable apps, solving real-world problems, and learning by creating impactful projects.
+</p>
+
+<p align="center">
+📍 Hyderabad, India
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 B.Tech Computer Science (Final Year)  
-- 💼 Junior Flutter Developer at JARX IT Pvt Ltd  
-- 🔭 Currently working on **Full Stack Apps & Backend Systems**  
-- 🌱 Learning **AI, ML & Large Language Models (LLMs)**  
-- 🎮 Game Developer (Unity - Strategy & Puzzle Games)  
-- ⚡ I prefer learning by building real-world projects  
+- 🎓 Final Year B.Tech Computer Science Student  
+- 💼 Junior Flutter Developer at **JARX IT Pvt Ltd**  
+- 🔭 Currently building **Full Stack Applications & Backend Systems**  
+- 🌱 Exploring **AI, Machine Learning & LLMs**  
+- 🎮 Game Developer (Unity – Strategy & Puzzle Games)  
+- ⚡ Strong believer in **learning by building real projects**  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🚀 Mobile & Frontend
-- Flutter (Dart)
-- React Native
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react" />
+</p>
 
 ### ⚙️ Backend
-- Node.js
-- Express.js
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### 🗄 Database
-- MongoDB
-- Firebase
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
 
-###  Tools & Others
-- Git & GitHub
-- REST APIs
-- Postman
-- Google Sheets API
+### 🧰 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
 
-### 🤖 Currently Learning
-- AI / ML
-- LLMs (Large Language Models)
+- REST APIs  
+- Google Sheets API  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔹 Royal Defense (Unity Game)
+### 🏰 Royal Defense (Unity Game)
 - Endless castle defense strategy game  
-- Buy weapons, defend castle, survive waves  
+- Upgrade weapons & defend against waves  
 - Score-based progression system  
 
 ---
 
-### 🔹 Left Behind (Unity Game)
+### 🚚 Left Behind (Unity Game)
 - Puzzle-based escape game  
-- Features: laser traps, checkpoints, night mode  
-- AI-based detection system  
+- Laser traps, checkpoints & night mode  
+- AI-based detection mechanics  
 
 ---
 
-### 🔹 Task Manager App (Full Stack)
-- Login & Signup authentication system  
-- Backend with API integration  
-- Google Sheets integration  
-- Data visualization (charts)
+### 📋 Task Manager App (Full Stack)
+- Secure Login & Signup system  
+- Backend API integration  
+- Google Sheets sync  
+- Data visualization with charts  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Uvaish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uvaish61&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uvaish61&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uvaish61&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uvaish61&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📈 Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Uvaish61&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uvaish61&theme=tokyo-night" />
+</p>
 
 ---
 
-## Profile Views
+## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=Uvaish61&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Uvaish61&color=blue" />
+</p>
 
 ---
 
@@ -101,8 +116,12 @@
 
 ---
 
-## 💡 Quote
+## 💡 Developer Mindset
 
-> “I don’t just learn technology — I build with it.”
+> "I don’t just learn technology — I build with it."
 
 ---
+
+## ⚡ Fun Fact
+
+- I can turn ideas into real-world apps faster than I can explain them 😄
