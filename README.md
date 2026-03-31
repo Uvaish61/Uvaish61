@@ -80,7 +80,7 @@ Passionate about building scalable apps and solving real-world problems
 ## 👾 Pacman Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/pacman.svg" />
+ <img src="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/pacman-contribution-graph.svg" />
 </p>
 
 ---
