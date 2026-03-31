@@ -1,6 +1,6 @@
-<!-- ⚠️ IMPORTANT: Apna existing GIF yahin top pe rehne do -->
+<!-- 🟡 PACMAN GIF (WORKING VERSION) -->
 <p align="center">
-  <img src="YOUR_GIF_LINK_HERE" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Uvaish Khan</h1>
@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-Passionate about building scalable apps, solving real-world problems, and learning by creating impactful projects.
+Passionate about building scalable apps and solving real-world problems
 </p>
 
 <p align="center">
@@ -23,80 +23,70 @@ Passionate about building scalable apps, solving real-world problems, and learni
 
 - 🎓 Final Year B.Tech Computer Science Student  
 - 💼 Junior Flutter Developer at **JARX IT Pvt Ltd**  
-- 🔭 Currently building **Full Stack Applications & Backend Systems**  
-- 🌱 Exploring **AI, Machine Learning & LLMs**  
-- 🎮 Game Developer (Unity – Strategy & Puzzle Games)  
-- ⚡ Strong believer in **learning by building real projects**  
+- 🔭 Working on **Full Stack Apps & Backend Systems**  
+- 🌱 Learning **AI, ML & LLMs**  
+- 🎮 Unity Game Developer  
+- ⚡ Learning by building real projects  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🚀 Mobile & Frontend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react" />
 </p>
 
 ### ⚙️ Backend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄 Database
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
-### 🧰 Tools & Technologies
-<p>
+### 🧰 Tools
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
 
-- REST APIs  
-- Google Sheets API  
+---
+
+## 🚀 Projects
+
+### 🏰 Royal Defense
+- Endless strategy defense game  
+- Weapon upgrades & wave survival  
+
+### 🚚 Left Behind
+- Puzzle escape game  
+- Laser traps & AI detection  
+
+### 📋 Task Manager App
+- Auth system + APIs  
+- Google Sheets integration  
+- Charts & analytics  
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏰 Royal Defense (Unity Game)
-- Endless castle defense strategy game  
-- Upgrade weapons & defend against waves  
-- Score-based progression system  
-
----
-
-### 🚚 Left Behind (Unity Game)
-- Puzzle-based escape game  
-- Laser traps, checkpoints & night mode  
-- AI-based detection mechanics  
-
----
-
-### 📋 Task Manager App (Full Stack)
-- Secure Login & Signup system  
-- Backend API integration  
-- Google Sheets sync  
-- Data visualization with charts  
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats (FIXED ✅)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uvaish61&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uvaish61&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uvaish61&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uvaish61&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity Graph (FIXED ✅)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uvaish61&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uvaish61&theme=tokyo-night&area=true" />
 </p>
 
 ---
@@ -104,7 +94,7 @@ Passionate about building scalable apps, solving real-world problems, and learni
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Uvaish61&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Uvaish61&color=blue&style=flat-square" />
 </p>
 
 ---
@@ -116,12 +106,6 @@ Passionate about building scalable apps, solving real-world problems, and learni
 
 ---
 
-## 💡 Developer Mindset
+## 💡 Quote
 
 > "I don’t just learn technology — I build with it."
-
----
-
-## ⚡ Fun Fact
-
-- I can turn ideas into real-world apps faster than I can explain them 😄
