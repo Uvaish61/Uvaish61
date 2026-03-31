@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uvaish Khan</h1>
 
 <h3 align="center">
-🚀 Junior Flutter Developer | 💻 Full Stack Developer | 🤖 AI Enthusiast
+🚀 Flutter Developer | 💻 Full Stack Developer | 🤖 AI Enthusiast
 </h3>
 
 <p align="center">
@@ -16,12 +16,12 @@ Passionate about building scalable apps and solving real-world problems
 
 ## 🧠 About Me
 
-- 🎓 Final Year B.Tech Computer Science Student  
-- 💼 Junior Flutter Developer at **JARX IT Pvt Ltd**  
+- 🎓 B.Tech Computer Science Graduate  
+- 💼 Flutter Developer at **JARX IT Pvt Ltd**  
 - 🔭 Working on **Full Stack Apps & Backend Systems**  
-- 🌱 Learning **AI, ML & LLMs**  
-- 🎮 Unity Game Developer  
-- ⚡ Learning by building real projects  
+- 🌱 Learning **AI, ML & Large Language Models (LLMs)**  
+- 🎮 Unity Game Developer (Strategy & Puzzle Games)  
+- ⚡ Learning by building real-world projects  
 
 ---
 
@@ -36,17 +36,24 @@ Passionate about building scalable apps and solving real-world problems
 ## 🚀 Projects
 
 ### 🏰 Royal Defense
-- Endless strategy defense game  
-- Weapon upgrades & wave survival  
+- Endless castle defense strategy game  
+- Weapon upgrades & wave survival system  
+- Score-based progression  
+
+---
 
 ### 🚚 Left Behind
-- Puzzle escape game  
-- Laser traps & AI detection  
+- Puzzle-based escape game  
+- Laser traps, checkpoints, night mode  
+- AI-based detection system  
+
+---
 
 ### 📋 Task Manager App
-- Auth system + APIs  
-- Google Sheets integration  
-- Charts & analytics  
+- Login & Signup authentication  
+- Backend API integration  
+- Google Sheets sync  
+- Data visualization (charts)  
 
 ---
 
@@ -70,10 +77,10 @@ Passionate about building scalable apps and solving real-world problems
 
 ---
 
-## 👾 Pacman Contribution Graph (FIXED ✅ NOT ON TOP)
+## 👾 Pacman Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman.svg" />
+  <img src="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/pacman.svg" />
 </p>
 
 ---
@@ -96,3 +103,9 @@ Passionate about building scalable apps and solving real-world problems
 ## 💡 Quote
 
 > "I don’t just learn technology — I build with it."
+
+---
+
+## ⚡ Fun Fact
+
+- I turn ideas into real-world apps 🚀
