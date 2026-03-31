@@ -1,8 +1,3 @@
-<!-- 🟡 PACMAN GIF (WORKING VERSION) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Uvaish Khan</h1>
 
 <h3 align="center">
@@ -32,24 +27,8 @@ Passionate about building scalable apps and solving real-world problems
 
 ## 🛠 Tech Stack
 
-### 🚀 Mobile & Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react" />
-</p>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄 Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-</p>
-
-### 🧰 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,express,mongodb,firebase,git,github,postman" />
 </p>
 
 ---
@@ -71,7 +50,7 @@ Passionate about building scalable apps and solving real-world problems
 
 ---
 
-## 📊 GitHub Stats (FIXED ✅)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uvaish61&show_icons=true&theme=tokyonight&cache_seconds=1800" />
@@ -83,10 +62,18 @@ Passionate about building scalable apps and solving real-world problems
 
 ---
 
-## 📈 Activity Graph (FIXED ✅)
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uvaish61&theme=tokyo-night&area=true" />
+</p>
+
+---
+
+## 👾 Pacman Contribution Graph (FIXED ✅ NOT ON TOP)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman.svg" />
 </p>
 
 ---
