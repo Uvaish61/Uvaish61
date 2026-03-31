@@ -20,7 +20,7 @@ Passionate about building scalable apps and solving real-world problems
 - 💼 Flutter Developer at **JARX IT Pvt Ltd**  
 - 🔭 Working on **Full Stack Apps & Backend Systems**  
 - 🌱 Learning **AI, ML & Large Language Models (LLMs)**  
-- 🎮 Unity Game Developer (Strategy & Puzzle Games)  
+- 🎮 Unity Game Developer  
 - ⚡ Learning by building real-world projects  
 
 ---
@@ -37,7 +37,7 @@ Passionate about building scalable apps and solving real-world problems
 
 ### 🏰 Royal Defense
 - Endless castle defense strategy game  
-- Weapon upgrades & wave survival system  
+- Weapon upgrades & wave survival  
 - Score-based progression  
 
 ---
@@ -60,11 +60,11 @@ Passionate about building scalable apps and solving real-world problems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uvaish61&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uvaish61&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uvaish61&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uvaish61&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
