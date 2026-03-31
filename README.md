@@ -60,11 +60,9 @@ Passionate about building scalable apps and solving real-world problems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uvaish61&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uvaish61&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uvaish61&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Uvaish61" />
 </p>
 
 ---
