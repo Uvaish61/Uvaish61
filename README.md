@@ -21,7 +21,7 @@ Passionate about building scalable apps and solving real-world problems
 -  Working on **Full Stack Apps & Backend Systems**  
 -  Learning **AI, ML & Large Language Models (LLMs)**  
 - 🎮 Unity Game Developer  
-- ⚡ Learning by building real-world projects  
+-  Learning by building real-world projects  
 
 ---
 
