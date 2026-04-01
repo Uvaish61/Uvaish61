@@ -14,7 +14,7 @@ Passionate about building scalable apps and solving real-world problems
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - 🎓 B.Tech Computer Science Graduate  
 - 💼 Flutter Developer at **JARX IT Pvt Ltd**  
