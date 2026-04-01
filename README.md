@@ -16,8 +16,7 @@ Passionate about building scalable apps and solving real-world problems
 
 ##  About Me
 
--  B.Tech Computer Science Graduate  
--  Flutter Developer at **JARX IT Pvt Ltd**  
+-  B.Tech Computer Science Graduate   
 -  Working on **Full Stack Apps & Backend Systems**  
 -  Learning **AI, ML & Large Language Models (LLMs)**  
 -  Unity Game Developer  
