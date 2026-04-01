@@ -20,7 +20,7 @@ Passionate about building scalable apps and solving real-world problems
 -  Flutter Developer at **JARX IT Pvt Ltd**  
 -  Working on **Full Stack Apps & Backend Systems**  
 -  Learning **AI, ML & Large Language Models (LLMs)**  
-- 🎮 Unity Game Developer  
+-  Unity Game Developer  
 -  Learning by building real-world projects  
 
 ---
