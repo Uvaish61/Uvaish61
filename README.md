@@ -34,19 +34,6 @@ Passionate about building scalable apps and solving real-world problems
 
 ##  Projects
 
-### 🏰 Royal Defense
-- Endless castle defense strategy game  
-- Weapon upgrades & wave survival  
-- Score-based progression  
-
----
-
-### 🚚 Left Behind
-- Puzzle-based escape game  
-- Laser traps, checkpoints, night mode  
-- AI-based detection system  
-
----
 
 ### 📋 Task Manager App
 - Login & Signup authentication  
