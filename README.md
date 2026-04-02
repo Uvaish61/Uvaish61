@@ -32,7 +32,7 @@ Passionate about building scalable apps and solving real-world problems
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🏰 Royal Defense
 - Endless castle defense strategy game  
