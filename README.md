@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uvaish Khan</h1>
 
 <h3 align="center">
- React Netive Developer | Flutter Developer | Full Stack Developer |  AI Enthusiast
+ React Netive Developer | Flutter Developer | Full Stack Developer |
 </h3>
 
 <p align="center">
