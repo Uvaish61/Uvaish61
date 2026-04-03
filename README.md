@@ -71,8 +71,8 @@ Passionate about building scalable apps and solving real-world problems
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: your-linkedin-link  
+- 📧 Email: uvaishkhanwork@gmail.com  
+- 💼 LinkedIn:https://www.linkedin.com/in/uvaish-khan-7a0a5222b/ 
 
 ---
 
