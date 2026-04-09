@@ -32,16 +32,6 @@ Passionate about building scalable apps and solving real-world problems
 
 ---
 
-##  Projects
-
-
-### 📋 Task Manager App
-- Login & Signup authentication  
-- Backend API integration  
-- Google Sheets sync  
-- Data visualization (charts)  
-
----
 
 
 
