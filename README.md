@@ -31,7 +31,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,express,mongodb,firebase,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,express,mongodb,firebase,unity,git,github,postman" />
 </p>
 
 ---
