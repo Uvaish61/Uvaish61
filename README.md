@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Uvaish Khan 👋</h1>
 
 <p align="center">
-  <strong>🚀 React Native Developer</strong> |
+  <strong> React Native Developer</strong> |
   <strong>Flutter Developer</strong> |
   <strong>Full Stack Developer</strong> |
   <strong>Unity 2D/3D Developer</strong>
