@@ -1,16 +1,20 @@
-<h1 align="center">Hello, I'm Uvaish Khan</h1>
-
-<h3 align="center">
- React Netive Developer | Flutter Developer | Full Stack Developer | Unity 2D/3D 
-</h3>
+<h1 align="center">Hello, I'm Uvaish Khan 👋</h1>
 
 <p align="center">
-Passionate about building scalable apps and solving real-world problems
+  <strong>🚀 React Native Developer</strong> |
+  <strong>Flutter Developer</strong> |
+  <strong>Full Stack Developer</strong> |
+  <strong>Unity 2D/3D Developer</strong>
 </p>
 
 <p align="center">
-📍 Hyderabad, India
+  Passionate about building scalable apps, immersive experiences, and solving real-world problems through technology.
 </p>
+
+<p align="center">
+  📍 Hyderabad, India
+</p>
+
 
 ---
 
