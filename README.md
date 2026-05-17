@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Passionate about building scalable apps, immersive experiences, and solving real-world problems through technology.
+   about building scalable apps, immersive experiences, and solving real-world problems through technology.
 </p>
 
 <p align="center">
