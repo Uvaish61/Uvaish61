@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  📍 Hyderabad, India
+   Hyderabad, India
 </p>
 
 
