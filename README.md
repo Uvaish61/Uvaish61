@@ -8,10 +8,6 @@
 </p>
 
 <p align="center">
-   about building scalable apps,
-</p>
-
-<p align="center">
    Hyderabad, India
 </p>
 
