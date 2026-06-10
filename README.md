@@ -72,6 +72,6 @@
 
 ---
 
-## ⚡ Fun Fact
+
 
 - I turn ideas into real-world apps 🚀
