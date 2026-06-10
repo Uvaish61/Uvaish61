@@ -70,4 +70,3 @@
 
 > "I don’t just learn technology — I build with it."
 
-- I turn ideas into real-world apps 🚀
