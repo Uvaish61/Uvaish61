@@ -46,7 +46,7 @@
 ## 👾 Pacman Contribution Graph (DARK MODE)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/pacman-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Uvaish61/Uvaish61/output/dist/pacman-contribution-graph-dark.svg" />
 </p>
 
 ---
